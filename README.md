@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./banner.png" alt="ResQHub Banner" width="100%">
+</p>
+
+<h1 align="center">ResQHub 🚨</h1>
+
+<p align="center">
+  <strong>Your Lifeline in Every Disaster</strong><br>
+  <em>Har Jaan Ke Saath, Har Sankat Mein Paas</em>
+</p>
+
+---
 # 🚨 ResQHub: Disaster Relif Sysyem
 
 > **Tagline:** A smart, crash_proof emergency management system that works even without the internet.
