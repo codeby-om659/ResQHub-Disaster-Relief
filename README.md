@@ -7,10 +7,10 @@
 
 ## 📌 Problem Statement
 
-During disasterr like floods or earthquakes, communication system fail drastically:
+During disaster like floods or earthquakes, communication system fail drastically:
 * ✖️ **Network Blackout:** 3G/4G/5G mobile internet and cell towers get destroyed or shut down.
 * ✖️ **Control Room Chaos:** Managing thousands of request makes it difficult to differntitate bte  high-risk critical victims and non-urgent request.
-* ✖️ **Lack of donor Transparency:** Donors lack trust regarding whetherr their donated supplies or funds actually reach the victims in time.
+* ✖️ **Lack of donor Transparency:** Donors lack trust regarding whether their donated supplies or funds actually reach the victims in time.
 
 ---
 ## 💡 Our Solution (ResQHub)
