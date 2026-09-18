@@ -1,3 +1,9 @@
+# 🚨 ResQHub: Disaster Relif Sysyem
+
+> **Tagline:** A smart, crash_proof emergency management system that works even without the internet.
+> **Team Name:** LogicLoop
+
+---
 <p align="center">
   <img src="./banner.png" alt="ResQHub Banner" width="600%">
 </p>
@@ -8,12 +14,6 @@
   <strong>Your Lifeline in Every Disaster</strong><br>
   <em>Har Jaan Ke Saath, Har Sankat Mein Paas</em>
 </p>
-
----
-# 🚨 ResQHub: Disaster Relif Sysyem
-
-> **Tagline:** A smart, crash_proof emergency management system that works even without the internet.
-> **Team Name:** LogicLoop
 
 ---
 
