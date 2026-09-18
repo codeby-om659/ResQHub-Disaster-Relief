@@ -22,4 +22,8 @@ ResQHub is a resilient, 3-layered disaster relief architecture designed to ensur
  3.  ** layer 3 (Bluetooth Mesh Networking):** Peer-to-peer (Hop by-Hop) data transfer using Web Bluetooth when mobile towers completely collapse.
 *    **Smart Priority Scoring Algorithm(1 to 10):** Automatically prioritizes critical cases (Medical & Trapped cases) to the top of the queue for the rescue contrl
  room.
-*    **Donor Transparency Portal:** Real-time supply Tracking with Gps and photo proof-of-delieveery for donors.
+*    **Donor Transparency Portal:** Real-time supply Tracking with Gps and photo proof-of-delievery for donors.
+
+---
+## Tech Stack
+|
