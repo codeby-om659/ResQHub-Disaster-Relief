@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="ResQHub Banner" width="50%">
+  <img src="./banner.png" alt="ResQHub Banner" width="600%">
 </p>
 
 <h1 align="center">ResQHub 🚨</h1>
