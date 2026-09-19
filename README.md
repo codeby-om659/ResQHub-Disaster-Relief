@@ -1,4 +1,4 @@
-# 🚨 ResQHub: Disaster Relif Sysyem
+# 🚨 ResQHub: Disaster Relif System
 
 > **Tagline:** A smart, crash_proof emergency management system that works even without the internet.
 > **Team Name:** LogicLoop
@@ -36,6 +36,23 @@ ResQHub is a resilient, 3-layered disaster relief architecture designed to ensur
 * 🤝 **Donor Transparency Portal:** Real-time supply Tracking with Gps and photo proof-of-delievery for donors.
 
 ---
+
+## 🔌 API Endpoints References
+All Endpoints are using **FastAPI** and include automatic request validation via **Pydantic**.
+### 1. User / Victim Interface (SOS ingestion)
+* **`POST /api/user/sos`** - Submit an emergency SOS when internet is active(layer 1).
+* **`post /api/user/sms-webhook`** - Process incomig 2G sms payloads from GSM gateway (layer 2).
+* **`POST /api/user/mesh-sync`** Sync relayed SOS data packets received via bluetooth MEsh(layer 3).
+
+### 2. Emergency Control Room Interfacce
+* **`GET /api/control-room/queue`** Fetch all emergency request automatically sortedd by Priority Score(10 tp 1)
+* **`POST /api/control-room/update-status/{sos_id}`** - Update rescue operations status ('Pending','Dispatch','Resolved').
+
+### 3. Relief & Donor Portal Interface
+* **`GET /api/donor/list`** -Retrieve all transparently verified relief donations and camp locations .
+* **`POST /api/donor/add`** -Register a new donor
+---
+
 ## ⚒️ Tech Stack
 | Component | Technology Used |
 | :--- | :--- |
