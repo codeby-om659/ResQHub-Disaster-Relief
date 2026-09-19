@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="./banner.png" alt="ResQHub Banner" width="600%">
+  <img src="./banner.png" alt="ResQHub Banner" width="300%">
 </p>
 
 <h1 align="center">ResQHub 🚨</h1>
