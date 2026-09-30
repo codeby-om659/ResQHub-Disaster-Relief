@@ -53,7 +53,7 @@ All Endpoints are using **FastAPI** and include automatic request validation via
 * **`POST /api/donor/add`** -Register a new donor
 ---
 
-## ⚒️ Tech Stack
+## ⚒️ Tech
 | Component | Technology Used |
 | :--- | :--- |
 | **Backend API** | Python (fastAPI + Pydantic) |
