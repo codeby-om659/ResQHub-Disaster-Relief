@@ -1,5 +1,4 @@
 # 🚨 ResQHub: Disaster Relif System
-
 > **Tagline:** A smart, crash_proof emergency management system that works even without the internet.
 > **Team Name:** LogicLoop
 
